@@ -1,0 +1,4 @@
+﻿Algorithm,Silhouette Score
+K-Means,0.5547
+DBSCAN,0.3876
+Hierarchical,0.5538
