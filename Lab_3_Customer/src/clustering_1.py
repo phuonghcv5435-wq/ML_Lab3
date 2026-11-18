@@ -134,7 +134,8 @@ class HierarchicalManual:
     def __init__(self, n_clusters=5):
         self.n_clusters = n_clusters
         self.labels_ = None
-
+        self.inertia_ = None
+    
     def fit(self, X):
         X = np.asarray(X, dtype=float)
 
