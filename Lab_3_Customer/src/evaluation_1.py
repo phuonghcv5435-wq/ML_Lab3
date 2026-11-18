@@ -1,5 +1,5 @@
 import numpy as np
-from .clustering import run_kmeans
+from .clustering_1 import run_kmeans
 
 
 # 1. Elbow Method - tính tổng bình phương khoảng cách trong cụm.
