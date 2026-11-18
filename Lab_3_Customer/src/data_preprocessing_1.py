@@ -56,3 +56,4 @@ def scale_features(X):
         index=X.index
     )
     return X_scaled, scaler
+
